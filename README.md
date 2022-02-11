@@ -1,4 +1,4 @@
-- 👋 Hola, soy @lucasgongora
+- 👋 Hola, soy Lucas Góngora.
 - 👀 Me interesa muchísimo la programación, más el backend que el frontend. 
 - 🌱 Actualmente estoy aprendiendo en el programa ArgentinaPrograma. Además de ello, he conocido varios lenguajes en diferentes 
     escenarios de aprendizaje, tanto en universidades como en plataformas de cursos online. 
