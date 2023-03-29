@@ -7,6 +7,7 @@
       el conocimiento enseñando a los demas lo que llegue a dominar muy bien en el ámbito de la programación. De hacerlo creo que me haría plenamente felíz.
 - 📫 Me gusta buscar siempre información nueva sobre programación, tecnologías nuevas, sistemas y todo lo relacionado al mundo de la programación, pero también 
       de electrónica y robótica.
+- #  Finalmente mi deseo es vivir del desarrollo de videojuegos, tanto en la programacion como en la creacion y realizacion total. y si puedo hacer un lugarcito tengo pensado interiorizarme tambien en desarrollo de aplicaciones en Android.
 
 <!---
 lucasgongora/lucasgongora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
